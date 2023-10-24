@@ -1,0 +1,11 @@
+Caries_Gingivitus_ToothDiscoloration_Ulcer-yolo_annotated-Dataset filter=lfs diff=lfs merge=lfs -text
+Gingivitis filter=lfs diff=lfs merge=lfs -text
+Untitled-1.ipynb filter=lfs diff=lfs merge=lfs -text
+oral_disease_scraper.ipynb filter=lfs diff=lfs merge=lfs -text
+scraper.ipynb filter=lfs diff=lfs merge=lfs -text
+Calculus filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]caries filter=lfs diff=lfs merge=lfs -text
+Mouth[[:space:]]Ulcer filter=lfs diff=lfs merge=lfs -text
+Tooth[[:space:]]Discoloration filter=lfs diff=lfs merge=lfs -text
+hypodontia filter=lfs diff=lfs merge=lfs -text
+lis[[:space:]]=[[:space:]][1,5,7,9].py filter=lfs diff=lfs merge=lfs -text
